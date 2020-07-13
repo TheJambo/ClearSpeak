@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
+	"name": "ClearSpeak",
 	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
+	"description": "Replaces euphamisms designed to downplay serious crimes with more accurate text.",
 	"content_scripts": 
 	[
 		{
